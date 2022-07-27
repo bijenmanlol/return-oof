@@ -11,7 +11,7 @@ It cannot be used if roblox was downloaded from the Micrsoft Store
 
 When downloaded simply run the Installer.bat to install the program.
 
-If you change your mind run the De-Installer.bat to remove the program.
+If you change your mind run the Un-Installer.bat to remove the program.
 
 
 Important notice:
