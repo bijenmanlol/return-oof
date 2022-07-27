@@ -16,4 +16,4 @@ If you change your mind run the De-Installer.bat to remove the program.
 
 Important notice:
 
-The creator (@bijenmanlol) takes absolutely NO responsibility in ANY effects this program might have on your device and or Rblox Payer install.
+The creator (@bijenmanlol) takes absolutely NO responsibility in ANY effects this program might have on your device and/or Roblox Payer install.
