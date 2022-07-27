@@ -5,7 +5,7 @@ This update is not liked by the player community.
 
 I made this program to automatically return the oof sound.
 
-This program is entirely written in batch and is for know only available on windows.
+This program is entirely written in batch and is only available on windows.
 
 It cannot be used if roblox was downloaded from the Micrsoft Store
 
