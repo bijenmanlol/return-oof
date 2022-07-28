@@ -7,7 +7,7 @@ I made this program to automatically return the oof sound.
 
 This program is entirely written in batch and is only available on windows.
 
-It cannot be used if roblox was downloaded from the Micrsoft Store
+It cannot be used if roblox was downloaded from the Microsoft Store
 
 When downloaded simply run the Installer.bat to install the program.
 
