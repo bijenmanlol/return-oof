@@ -1,5 +1,7 @@
 # RETURN THE ROBLOX OOF SOUND
 
+### Support discontinued and no longer working
+
 Since some time ago roblox removed the well known oof sound.
 This update is not liked by the player community.
 
